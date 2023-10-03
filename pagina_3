@@ -3,7 +3,7 @@ test 1
  <ul>
  <li><a href="mijnwebpagina.html">Home</a></li>
  <li><a href="pagina2.html">Pagina 2</a></li>
- <li><a href="fotos.html">Foto's</a></li>
+ <li><a href="pagina3.html">Foto's</a></li>
  <li><a href="contact.html">Contact</a></li>
  </ul>
 </nav>
